@@ -9,7 +9,7 @@ from telegram.ext import (
     filters,
 )
 
-TOKEN = "8861590532:AAHzSXGviJLBazHIF7Oj-Fg-UhgVjPh525o"
+TOKEN = "8861590532:AAFL10R4p2gQTK5wHjEyRASYtLnSY06Fstw"
 ADMIN_ID = 8756316671
 
 CHANNEL_USERNAME = "@kino_024"
